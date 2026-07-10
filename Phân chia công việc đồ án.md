@@ -82,7 +82,7 @@
     - Font: size, colour, bullet.
     - Label hình nằm dưới, label bảng nằm trên.
     - Mục lục, mục lục ảnh, mục lục bảng biểu, bảng viết tắt.
-    - Theo mẫu báo cáo KL: [Mẫu-KLTN](Mẫu%20báo%20cáo%20KLTN/phuluc3_maubaocao.docx)
+    - Theo mẫu báo cáo KL: [Mẫu-KLTN](https://github.com/haichuong2209/IE203_HTQT_QTNV/tree/main/M%C3%A2%CC%83u%20ba%CC%81o%20ca%CC%81o%20KLTN) 
 - Github: submit commit history để cho thầy xem.
 - Trình bày:
     - Mỗi nhóm trình bày tối đa
