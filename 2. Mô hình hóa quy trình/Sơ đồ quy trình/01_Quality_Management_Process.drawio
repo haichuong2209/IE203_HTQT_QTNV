@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Quality Management Process" id="Quality_Management_Process">
+    <mxGraphModel dx="900" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1250" pageHeight="1650" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+<mxCell id="start" value="Bắt đầu chu kỳ
+kiểm toán chất lượng" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;" vertex="1" parent="1"><mxGeometry x="358" y="48" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="plan" value="Lập kế hoạch audit định kỳ cho dự án/phòng ban" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="270.0" y="150.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw1" value="+  Tách song song
+kiểm toán" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="352.0" y="262.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="proc_audit" value="Thực hiện audit quy trình thực tế" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="80.0" y="390.0" width="200.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="doc_review" value="Rà soát hồ sơ/tài liệu liên quan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="480.0" y="390.0" width="200.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw2" value="+  Hội tụ kết
+quả kiểm toán" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="352.0" y="522.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="gw3" value="X  Phát hiện
+NC?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="352.0" y="632.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="root_cause" value="Phân tích nguyên nhân gốc rễ (Root Cause)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="270.0" y="770.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw5" value="X  Xác định rõ
+root cause?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="352.0" y="892.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="escalate_expert" value="Mời chuyên gia
+phân tích thêm" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="55.0" y="890.0" width="190.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="capa_plan" value="Lập kế hoạch khắc phục CAPA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="270.0" y="1010.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="track_capa" value="Theo dõi tiến độ thực hiện CAPA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="270.0" y="1120.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw6" value="X  CAPA hoàn
+thành đúng hạn?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="352.0" y="1242.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="close_nc" value="Đóng NC &amp; báo cáo BOD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="270.0" y="1362.0" width="220.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="end_ok2" value="Kết thúc
+(Compliant)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="358" y="1478" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="gw7" value="X  Đã vượt số lần
+gia hạn cho phép?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="672.0" y="1242.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="extend" value="Gia hạn thêm thời
+gian thực hiện CAPA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="605.0" y="1360.0" width="190.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="escalate_bod" value="Báo cáo BOD -
+cảnh báo risk" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="855.0" y="1240.0" width="190.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="end_risk2" value="Kết thúc
+(Certification at risk)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="928" y="1368" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="gw4" value="X  Chứng nhận
+sắp hết hạn?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="672.0" y="632.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="end_ok" value="Kết thúc
+(Compliant)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="928" y="638" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="renewal_prep" value="Chuẩn bị hồ sơ tái chứng nhận" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="600.0" y="770.0" width="200.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw8" value="X  Hoàn tất trước
+deadline?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="672.0" y="892.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="end_renewed" value="Kết thúc
+(Renewed)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="528" y="998" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="end_overdue" value="Kết thúc
+(Renewal overdue)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="828" y="998" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="e0" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="start" target="plan"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e1" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="plan" target="gw1"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e2" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw1" target="proc_audit"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e3" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw1" target="doc_review"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e4" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="proc_audit" target="gw2"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e5" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="doc_review" target="gw2"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e6" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw2" target="gw3"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e7" value="Có NC" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw3" target="root_cause"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e8" value="Không có NC" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw3" target="gw4"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e9" value="Sắp hết hạn" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw4" target="end_ok"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e10" value="Còn hạn dài" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw4" target="renewal_prep"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e11" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="renewal_prep" target="gw8"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e12" value="Kịp" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw8" target="end_renewed"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e13" value="Trễ" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw8" target="end_overdue"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e14" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="root_cause" target="gw5"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e15" value="Rõ ràng" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw5" target="capa_plan"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e16" value="Chưa rõ" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw5" target="escalate_expert"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e17" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="escalate_expert" target="root_cause"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e18" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="capa_plan" target="track_capa"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e19" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="track_capa" target="gw6"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e20" value="Đúng hạn" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw6" target="close_nc"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e21" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="close_nc" target="end_ok2"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e22" value="Trễ hạn" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw6" target="gw7"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e23" value="Chưa vượt" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw7" target="extend"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e24" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="extend" target="track_capa"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e25" value="Đã vượt" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw7" target="escalate_bod"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e26" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="escalate_bod" target="end_risk2"><mxGeometry relative="1" as="geometry" /></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

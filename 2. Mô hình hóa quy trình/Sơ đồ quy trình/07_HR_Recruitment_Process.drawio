@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="HR Recruitment Process" id="HR_Recruitment_Process">
+    <mxGraphModel dx="900" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1300" pageHeight="2000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+<mxCell id="start" value="Requester tạo
+Job Requisition Form" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;" vertex="1" parent="1"><mxGeometry x="358" y="48" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="gw1" value="X  BOD/COO
+phê duyệt?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="352.0" y="152.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="end_reject" value="Kết thúc
+(Requisition rejected)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="728" y="158" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="prep" value="Xây dựng JD, đăng tuyển, tìm nguồn ứng viên" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="270.0" y="270.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="screen" value="Sàng lọc CV theo tiêu chí" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="270.0" y="392.0" width="220.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="gw2" value="X  Có ứng viên
+phù hợp?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="352.0" y="512.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="phone" value="Phỏng vấn sơ bộ qua điện thoại" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="270.0" y="630.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw3" value="X  Đạt phỏng vấn
+sơ bộ?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="352.0" y="752.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="gw4" value="+  Tách song song
+đánh giá" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="352.0" y="872.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="tech_test" value="Kiểm tra kỹ thuật
+(Technical Test)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="105.0" y="990.0" width="190.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="ref_check" value="Kiểm tra thư
+giới thiệu (Reference Check)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="465.0" y="980.0" width="190.0" height="80.0" as="geometry" /></mxCell>
+<mxCell id="gw5" value="+  Hội tụ kết
+quả đánh giá" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="352.0" y="1112.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="gw6" value="X  Ứng viên đạt
+yêu cầu tổng thể?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="352.0" y="1232.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="offer" value="Chuẩn bị &amp; gửi thư mời làm việc (Offer Letter)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="270.0" y="1350.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw7" value="X  Thỏa thuận
+lương thành công?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="352.0" y="1472.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="gw8" value="X  Ứng viên còn
+linh hoạt đàm phán?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="722.0" y="1472.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="onboard" value="Pre-On-Board: chuẩn bị hồ sơ, hợp đồng, NDA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="270.0" y="1590.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="end_ok" value="Kết thúc
+(Recruitment successful)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="358" y="1708" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="end_decline" value="Kết thúc
+(Offer declined)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="928" y="1598" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="e0" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="start" target="gw1"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e1" value="Phê duyệt" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw1" target="prep"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e2" value="Từ chối" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw1" target="end_reject"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e3" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="prep" target="screen"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e4" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="screen" target="gw2"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e5" value="Có ứng viên" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw2" target="phone"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e6" value="Chưa có,
+tiếp tục tìm nguồn" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw2" target="screen"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e7" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="phone" target="gw3"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e8" value="Đạt" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw3" target="gw4"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e9" value="Không đạt" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw3" target="screen"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e10" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw4" target="tech_test"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e11" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw4" target="ref_check"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e12" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="tech_test" target="gw5"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e13" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="ref_check" target="gw5"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e14" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw5" target="gw6"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e15" value="Đạt yêu cầu" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw6" target="offer"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e16" value="Không đạt,
+tìm ứng viên khác" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw6" target="screen"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e17" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="offer" target="gw7"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e18" value="Thành công" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw7" target="onboard"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e19" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="onboard" target="end_ok"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e20" value="Chưa thành công" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw7" target="gw8"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e21" value="Còn linh hoạt
+(đàm phán lại)" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw8" target="offer"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e22" value="Không
+linh hoạt" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw8" target="end_decline"><mxGeometry relative="1" as="geometry" /></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

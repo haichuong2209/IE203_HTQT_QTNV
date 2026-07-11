@@ -50,13 +50,16 @@
         </mxCell>
 
         <mxCell id="s1" value="HR Recruitment Process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="170" y="660" width="260" height="150" as="geometry" />
+          <mxGeometry x="60" y="660" width="210" height="150" as="geometry" />
         </mxCell>
         <mxCell id="s2" value="Assets Control Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="470" y="660" width="260" height="150" as="geometry" />
+          <mxGeometry x="295" y="660" width="210" height="150" as="geometry" />
         </mxCell>
         <mxCell id="s3" value="Software Installation Management Process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="770" y="660" width="260" height="150" as="geometry" />
+          <mxGeometry x="530" y="660" width="210" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="s4" value="Purchasing Management Process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="765" y="660" width="210" height="150" as="geometry" />
         </mxCell>
 
       </root>

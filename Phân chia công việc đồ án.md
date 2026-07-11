@@ -22,7 +22,13 @@
 - Yêu cầu
     - Slide - 1 quy trình.
     - Words - 2 quy trình
-    - Mô tả độ phức tập của quy trình
+    - Mô tả độ phức tạp của quy trình
+    - Cổng điều kiện:
+        - >7: 1 đ.
+        - >5: 0.75 đ.
+        - >3: 0.5đ.
+    - Split & Join
+    - Sai các kí hiệu: -0.25/1 cái
 ### 3. Phương pháp thực hiện
 - Dựa trên bằng chứng
     - Mô tả quy trình hiện có - nếu có.
@@ -32,11 +38,15 @@
     - Biểu mẫu.
         - Workshop - biễu mẫu cuộc họp; kịch bản
 - Phỏng vấn
-    - Liệt kê dan sách các câu hỏi đối tượng liên quan
+    - Liệt kê danh sách các câu hỏi đối tượng liên quan
         - 10 câu hỏi **định tính**.
             - 5 câu hỏi cấu trúc và 5 câu hỏi không có cấu trúc.
         - 10 câu hỏi **định lượng**.
             - 5 câu hỏi cấu trúc và 5 câu hỏi không có cấu trúc.
+        - Yêu cầuL
+            - < 10: 0đ.
+            - (10-20): 0.25đ.
+            - >=20: 0.5đ
 ### 4. Phân tích quy trình
 - Phân tích định tính: 2 quy trình.
     - Phân tích giá trị gia tăng.
@@ -82,7 +92,7 @@
     - Font: size, colour, bullet.
     - Label hình nằm dưới, label bảng nằm trên.
     - Mục lục, mục lục ảnh, mục lục bảng biểu, bảng viết tắt.
-    - Theo mẫu báo cáo KL: [Mẫu-KLTN](Mẫu%20báo%20cáo%20KLTN/phuluc3_maubaocao.docx)
+    - Theo mẫu báo cáo KL: [Mẫu-KLTN](Mẫu%20báo%20cáo%20KLTN/phuluc3_maubaocao.docx).
 - Github: submit commit history để cho thầy xem.
 - Trình bày:
     - Mỗi nhóm trình bày tối đa

@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Sales Management Process" id="Sales_Management_Process">
+    <mxGraphModel dx="900" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1350" pageHeight="2050" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+<mxCell id="start" value="Lead mới được tạo
+(Create Lead Pool)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;" vertex="1" parent="1"><mxGeometry x="378" y="48" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="follow" value="Theo dõi &amp; chăm sóc lead tiềm năng (Follow up)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="290.0" y="150.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw1" value="X  Lead đủ
+điều kiện?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="372.0" y="272.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="end_drop" value="Kết thúc
+(Lead dropped)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="728" y="278" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="meeting" value="Tổ chức gặp khách hàng (Client Meeting)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="290.0" y="390.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="proposal" value="Lập đề xuất (Make Proposal)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="290.0" y="500.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="quote" value="Lập báo giá (Make Quotation)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="290.0" y="610.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw2" value="X  Khách hàng
+chấp nhận báo giá?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="372.0" y="732.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="gw3" value="X  Khách hàng còn
+quan tâm điều chỉnh?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="722.0" y="732.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="end_negotiation" value="Kết thúc
+(Deal lost -
+sau đàm phán)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="928" y="838" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="contract" value="Soạn hợp đồng thương mại (Commercial Contract)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="290.0" y="860.0" width="220.0" height="80.0" as="geometry" /></mxCell>
+<mxCell id="gw4" value="X  Rà soát pháp lý
+đạt yêu cầu?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="372.0" y="992.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="revise_contract" value="Chỉnh sửa điều khoản
+hợp đồng" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="655.0" y="990.0" width="190.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw5" value="X  Hợp đồng
+được ký?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="372.0" y="1112.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="end_lost" value="Kết thúc
+(Deal lost)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="728" y="1118" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="gw6" value="+  Tách song song
+khởi động" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="372.0" y="1232.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="kickoff" value="Kick-off dự án
+(→ Project Management)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="125.0" y="1360.0" width="190.0" height="80.0" as="geometry" /></mxCell>
+<mxCell id="billing" value="Thiết lập hồ sơ
+thanh toán/hóa đơn" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="485.0" y="1370.0" width="190.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw7" value="+  Hội tụ
+khởi động" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="372.0" y="1492.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="collect" value="Thu tiền theo tiến độ hợp đồng" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="290.0" y="1600.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw8" value="X  Thanh toán
+đúng hạn?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="372.0" y="1722.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="survey" value="Khảo sát hài lòng khách hàng" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="125.0" y="1830.0" width="190.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="end_won" value="Kết thúc
+(Deal won)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="198" y="1938" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="escalate_fin" value="Escalate cho Finance
+xử lý nợ trễ hạn" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="525.0" y="1830.0" width="190.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="end_late" value="Kết thúc
+(Deal won -
+late payment)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="598" y="1938" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="e0" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="start" target="follow"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e1" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="follow" target="gw1"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e2" value="Đủ điều kiện" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw1" target="meeting"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e3" value="Không đủ" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw1" target="end_drop"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e4" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="meeting" target="proposal"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e5" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="proposal" target="quote"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e6" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="quote" target="gw2"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e7" value="Chấp nhận" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw2" target="contract"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e8" value="Chưa chấp nhận" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw2" target="gw3"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e9" value="Còn quan tâm,
+điều chỉnh lại" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw3" target="proposal"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e10" value="Không còn
+quan tâm" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw3" target="end_negotiation"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e11" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="contract" target="gw4"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e12" value="Đạt yêu cầu" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw4" target="gw5"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e13" value="Chưa đạt,
+cần chỉnh sửa" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw4" target="revise_contract"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e14" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="revise_contract" target="contract"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e15" value="Ký hợp đồng" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw5" target="gw6"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e16" value="Từ chối ký" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw5" target="end_lost"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e17" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw6" target="kickoff"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e18" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw6" target="billing"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e19" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="kickoff" target="gw7"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e20" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="billing" target="gw7"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e21" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw7" target="collect"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e22" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="collect" target="gw8"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e23" value="Đúng hạn" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw8" target="survey"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e24" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="survey" target="end_won"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e25" value="Trễ hạn" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw8" target="escalate_fin"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e26" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="escalate_fin" target="end_late"><mxGeometry relative="1" as="geometry" /></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

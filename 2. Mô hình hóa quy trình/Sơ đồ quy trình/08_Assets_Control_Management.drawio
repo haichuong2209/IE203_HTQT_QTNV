@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Assets Control Management" id="Assets_Control_Management">
+    <mxGraphModel dx="900" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1450" pageHeight="2150" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+<mxCell id="start" value="Nhận thiết bị mới
+(từ Purchasing Process)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;" vertex="1" parent="1"><mxGeometry x="378" y="48" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="check" value="Kiểm tra tình trạng thiết bị" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="290.0" y="150.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw1" value="X  Đạt yêu
+cầu?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="372.0" y="272.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="end_return" value="Kết thúc
+(Equipment rejected)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="758" y="278" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="inventory" value="Chuẩn bị kiểm kê, cập nhật Control Register" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="290.0" y="390.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="deliver" value="Bàn giao thiết bị &amp; ký nhận" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="290.0" y="510.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="maintain" value="Bảo trì định kỳ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="290.0" y="632.0" width="220.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="gw2" value="X  Phát sinh
+sự cố?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="372.0" y="752.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="end_inuse" value="Kết thúc
+(Đang sử dụng
+bình thường)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="758" y="758" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="gw3" value="X  Còn trong thời
+hạn bảo hành?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="372.0" y="872.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="warranty_fix" value="Sửa chữa qua
+nhà cung cấp (Warranty)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="125.0" y="980.0" width="190.0" height="80.0" as="geometry" /></mxCell>
+<mxCell id="internal_fix" value="Sửa chữa nội bộ
+(Internal repair)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="525.0" y="990.0" width="190.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw4" value="X  Sửa được
+không?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="592.0" y="1112.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="gw5" value="X  Cần duyệt ngân
+sách mua mới?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="592.0" y="1232.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="budget_req" value="Yêu cầu phê duyệt
+ngân sách mua mới" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="885.0" y="1350.0" width="190.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw6" value="X  Ngân sách
+được duyệt?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="952.0" y="1472.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="purchase_new" value="Kích hoạt mua mới
+(→ Purchasing Process)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="1085.0" y="1610.0" width="190.0" height="80.0" as="geometry" /></mxCell>
+<mxCell id="end_replaced" value="Kết thúc
+(Equipment replaced)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="1158" y="1748" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="end_delay" value="Kết thúc
+(Chờ ngân sách -
+tạm ngưng)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="958" y="1628" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="dispose_prep" value="Chuẩn bị thanh lý thiết bị" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="525.0" y="1350.0" width="190.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw7" value="+  Tách song song
+thanh lý" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="592.0" y="1472.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="wipe_data" value="Xóa dữ liệu
+trên thiết bị" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="335.0" y="1590.0" width="170.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="phys_dispose" value="Xử lý vật lý
+(bán/tiêu hủy)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="695.0" y="1590.0" width="170.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw8" value="+  Hội tụ
+thanh lý" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="592.0" y="1712.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="records" value="Lưu hồ sơ thanh lý (Records Control)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="510.0" y="1830.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="end_disposed" value="Kết thúc
+(Equipment disposed)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="598" y="1948" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="e0" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="start" target="check"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e1" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="check" target="gw1"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e2" value="Đạt" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw1" target="inventory"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e3" value="Không đạt" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw1" target="end_return"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e4" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="inventory" target="deliver"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e5" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="deliver" target="maintain"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e6" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="maintain" target="gw2"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e7" value="Không có sự cố" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw2" target="end_inuse"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e8" value="Có sự cố" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw2" target="gw3"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e9" value="Còn bảo hành" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw3" target="warranty_fix"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e10" value="Hết bảo hành" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw3" target="internal_fix"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e11" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="warranty_fix" target="deliver"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e12" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="internal_fix" target="gw4"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e13" value="Sửa được" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw4" target="deliver"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e14" value="Không sửa được" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw4" target="gw5"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e15" value="Cần mua mới" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw5" target="budget_req"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e16" value="Chỉ cần
+thanh lý" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw5" target="dispose_prep"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e17" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="budget_req" target="gw6"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e18" value="Được duyệt" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw6" target="purchase_new"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e19" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="purchase_new" target="end_replaced"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e20" value="Chưa duyệt" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw6" target="end_delay"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e21" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="dispose_prep" target="gw7"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e22" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw7" target="wipe_data"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e23" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw7" target="phys_dispose"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e24" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="wipe_data" target="gw8"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e25" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="phys_dispose" target="gw8"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e26" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw8" target="records"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e27" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="records" target="end_disposed"><mxGeometry relative="1" as="geometry" /></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

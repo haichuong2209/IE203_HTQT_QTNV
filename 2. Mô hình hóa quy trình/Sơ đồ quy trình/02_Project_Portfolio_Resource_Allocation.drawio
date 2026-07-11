@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Project Portfolio Resource Allocation" id="Project_Portfolio_Resource_Allocation">
+    <mxGraphModel dx="900" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1350" pageHeight="1700" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+<mxCell id="start" value="Nhận nhu cầu
+nguồn lực từ các dự án" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;" vertex="1" parent="1"><mxGeometry x="358" y="48" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="assess_cap" value="Đánh giá năng lực &amp; tình trạng sẵn sàng đội ngũ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="270.0" y="160.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw1" value="X  Thiếu hụt
+nguồn lực?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="352.0" y="272.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="recruit_req" value="Gửi yêu cầu tuyển dụng
+bổ sung (→ HR)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="125.0" y="380.0" width="190.0" height="80.0" as="geometry" /></mxCell>
+<mxCell id="gw2" value="X  Đủ khẩn cấp để
+yêu cầu tuyển gấp?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="192.0" y="512.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="escalate_hr" value="Yêu cầu HR
+tuyển gấp (expedited)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="15.0" y="620.0" width="170.0" height="80.0" as="geometry" /></mxCell>
+<mxCell id="end_urgent" value="Kết thúc
+(Escalated urgent)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="78" y="748" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="normal_hr" value="Đưa vào hàng đợi
+tuyển dụng bình thường" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="255.0" y="620.0" width="190.0" height="80.0" as="geometry" /></mxCell>
+<mxCell id="end_queue" value="Kết thúc
+(Recruitment queued)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="328" y="748" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="gw3" value="+  Tách song song
+lập kế hoạch" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="352.0" y="392.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="prioritize" value="Ưu tiên hóa danh mục dự án theo giá trị" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="400.0" y="510.0" width="200.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="assess_risk" value="Đánh giá rủi ro/tác động từng dự án" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="700.0" y="510.0" width="200.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw4" value="+  Hội tụ kế
+hoạch ưu tiên" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="622.0" y="632.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="allocate" value="Phân bổ nhân sự cho từng dự án" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="540.0" y="750.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw5" value="X  Xung đột
+nguồn lực?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="622.0" y="872.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="track_util" value="Theo dõi mức độ sử dụng nguồn lực (utilization)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="540.0" y="990.0" width="220.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw8" value="X  Utilization trong
+ngưỡng mục tiêu?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="622.0" y="1112.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="end_success" value="Kết thúc
+(Phân bổ thành công)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="478" y="1238" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="adjust_plan" value="Điều chỉnh kế hoạch
+nhân sự dài hạn" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="755.0" y="1230.0" width="190.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="end_plan" value="Kết thúc
+(Cần điều chỉnh
+kế hoạch nhân sự)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="828" y="1358" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="gw6" value="X  Giải quyết được
+bằng đổi ưu tiên?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="922.0" y="872.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="adjust_priority" value="Điều chỉnh lại thứ tự ưu tiên" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="855.0" y="990.0" width="190.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="negotiate" value="Đàm phán lại tiến độ
+với khách hàng" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="1055.0" y="870.0" width="190.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="gw7" value="X  Đàm phán
+thành công?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="1122.0" y="992.0" width="56.0" height="56.0" as="geometry" /></mxCell>
+<mxCell id="escalate_bod2" value="Escalate lên BOD
+quyết định" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF7CC;strokeColor=#000000;fontSize=12;arcSize=14;" vertex="1" parent="1"><mxGeometry x="1055.0" y="1130.0" width="190.0" height="60.0" as="geometry" /></mxCell>
+<mxCell id="end_escalate" value="Kết thúc
+(Escalated to BOD)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=11;strokeWidth=3;" vertex="1" parent="1"><mxGeometry x="1128" y="1258" width="44" height="44" as="geometry" /></mxCell>
+<mxCell id="e0" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="start" target="assess_cap"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e1" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="assess_cap" target="gw1"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e2" value="Thiếu hụt" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw1" target="recruit_req"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e3" value="Không thiếu" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw1" target="gw3"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e4" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="recruit_req" target="gw2"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e5" value="Khẩn cấp" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw2" target="escalate_hr"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e6" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="escalate_hr" target="end_urgent"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e7" value="Bình thường" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw2" target="normal_hr"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e8" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="normal_hr" target="end_queue"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e9" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw3" target="prioritize"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e10" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw3" target="assess_risk"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e11" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="prioritize" target="gw4"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e12" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="assess_risk" target="gw4"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e13" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw4" target="allocate"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e14" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="allocate" target="gw5"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e15" value="Không xung đột" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw5" target="track_util"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e16" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="track_util" target="gw8"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e17" value="Đạt mục tiêu" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw8" target="end_success"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e18" value="Ngoài ngưỡng" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw8" target="adjust_plan"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e19" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="adjust_plan" target="end_plan"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e20" value="Có xung đột" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw5" target="gw6"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e21" value="Có thể" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw6" target="adjust_priority"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e22" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="adjust_priority" target="allocate"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e23" value="Không đủ" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw6" target="negotiate"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e24" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="negotiate" target="gw7"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e25" value="Thành công" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw7" target="allocate"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e26" value="Thất bại" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="gw7" target="escalate_bod2"><mxGeometry relative="1" as="geometry" /></mxCell>
+<mxCell id="e27" style="endArrow=block;html=1;fontSize=10;fontColor=#1F3864;" edge="1" parent="1" source="escalate_bod2" target="end_escalate"><mxGeometry relative="1" as="geometry" /></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
