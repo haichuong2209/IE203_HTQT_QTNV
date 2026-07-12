@@ -43,7 +43,7 @@
             - 5 câu hỏi cấu trúc và 5 câu hỏi không có cấu trúc.
         - 10 câu hỏi **định lượng**.
             - 5 câu hỏi cấu trúc và 5 câu hỏi không có cấu trúc.
-        - Yêu cầuL
+        - Yêu cầu
             - < 10: 0đ.
             - (10-20): 0.25đ.
             - >=20: 0.5đ
