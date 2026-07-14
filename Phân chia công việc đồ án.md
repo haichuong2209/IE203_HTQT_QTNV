@@ -100,5 +100,5 @@
 | Phan Chí Hiếu    | 25410213 |                                             |
 | Lê Thị Tú Anh    | 25410171 |                                             |
 | Vũ Huy Hoàng     | 25410220 |                                             |
-| Giang Hải Chương | 25410179 |                                             |
+| Giang Hải Chương | 25410179 | 3. Phương pháp thực hiện                    |
 | Nguyễn Minh Duy  | 25410193 |                                             |
