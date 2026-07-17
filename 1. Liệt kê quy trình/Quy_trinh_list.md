@@ -1,3 +1,37 @@
+# Danh sách 10 quy trình
+## Quy trình quản lý (Management)
+- Qualiti Management Process (Quy trình quản lý chất lượng).
+- Project Portfolio & Resource Allocation Management (Quy trình quản lý dự án & Phân bỏ nguồn lực).
+- Risk Management Process (Quy trình quản lý rủi ro).
+## Quy trình cốt lõi (Core)
+- Sales Management Process - Quy trình quản lý bán hàng.
+- Project Management Process - Quy trình quản lý dự án Agile Scrum.
+- Software Maintenance & Support Process - Quy trình bảo trì & hỗ trợ phần mềm
+## Quy trình hỗ trợ (Support)
+- HR Recruitment Process - Quy trình tuyển dụng nhân sự.
+- Asset Control Management - Quy trình quản lý & kiểm soát tài sản.
+- Software Installation Management Process - Quy trình quản lý cài đặt phần mềm.
+- Purchasing Management Process - Quy trình mua hàng.
+
+## Kiến trúc quy trình (Process Architecture)
+## ![](sources/orient_process_architecture.png)
+# Nội dung
+## Nhóm quy trình quản lý (Management Process)
+### Quy trình quản lý chất lượng (Quality Management Process)
+#### Actor / Tác nhân:
+- QA Manager
+- Nhóm QA/QC
+- Project Manager (chủ sở hữu quy trình được audit)
+- Ban Giám đốc (BOD)
+#### Mô tả quy trình / Process Description:
+- Các bước thực hiện (Steps):
+    - Xây dựng/ cập nhật tiêu chuẩn chất lượng nội bộ theo khung CMMI/ISO mà công ty áp dụng.
+    - Lập kế hoạch kiểm toán (audit) định kỳ cho các dự án/phòng ban.
+    - Thực hiện audit quy trình thực tế so với tài liệu quy trình (PRO-*) đã ban hành.
+    - Ghi nhận các điểm không phù hợp (Non-conformance – NC) nếu có.
+    - Yêu cầu bộ phận liên quan lập kế hoạch khắc phục (CAPA – Corrective and Preventive Action).
+    - Theo dõi tiến độ khắc phục và đóng NC khi đã xác minh.
+    - Báo cáo tổng hợp chất lượng cho BOD theo quý.
 - Giá trị mang lại cho khách hàng (Value to customer): Giảm thiểu khả năng gián đoạn dịch vụ hoặc rò rỉ thông tin cho khách hàng, duy trì cam kết SLA và uy tín của công ty outsourcing đối với đối tác quốc tế.
 - Nhiệm vụ chính (Key tasks): Nhận diện rủi ro; đánh giá xác suất/tác động; cập nhật Risk Register; lập kế hoạch ứng phó; theo dõi & báo cáo.
 #### Khách hàng / Customer:
