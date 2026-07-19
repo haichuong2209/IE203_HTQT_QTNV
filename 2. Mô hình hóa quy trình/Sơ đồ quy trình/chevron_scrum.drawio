@@ -1,0 +1,51 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="PROCESS PERSPECTIVE – QUY TRÌNH QUẢN LÝ DỰ ÁN (SCRUM)" id="chevron">
+    <mxGraphModel dx="872" dy="469" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1400" pageHeight="250" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZFx5cUYZfeNQqglnR-Jv-7" parent="1" style="swimlane;fontStyle=3;separatorColor=light-dark(#000000,#000000);" value="PROCESS PERSPECTIVE – QUY TRÌNH QUẢN LÝ DỰ ÁN (SCRUM) " vertex="1">
+          <mxGeometry height="175" width="856" x="268.00098197189027" y="-0.0011238880319979216" as="geometry">
+            <mxRectangle height="26" width="398" x="-118" y="644" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZFx5cUYZfeNQqglnR-Jv-8" parent="ZFx5cUYZfeNQqglnR-Jv-7" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="102" width="148" x="47" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFx5cUYZfeNQqglnR-Jv-9" parent="ZFx5cUYZfeNQqglnR-Jv-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Product Planning" vertex="1">
+          <mxGeometry height="86.5" width="81" x="88" y="53.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFx5cUYZfeNQqglnR-Jv-10" parent="ZFx5cUYZfeNQqglnR-Jv-7" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="102" width="148" x="300" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFx5cUYZfeNQqglnR-Jv-11" parent="ZFx5cUYZfeNQqglnR-Jv-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Sprint Planning" vertex="1">
+          <mxGeometry height="86.5" width="81" x="333.5" y="53.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFx5cUYZfeNQqglnR-Jv-12" parent="ZFx5cUYZfeNQqglnR-Jv-7" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="102" width="148" x="426" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFx5cUYZfeNQqglnR-Jv-13" parent="ZFx5cUYZfeNQqglnR-Jv-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Sprint (Development + Daily Scrum)" vertex="1">
+          <mxGeometry height="86.5" width="81" x="459.5" y="53.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFx5cUYZfeNQqglnR-Jv-14" parent="ZFx5cUYZfeNQqglnR-Jv-7" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="102" width="148" x="551" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFx5cUYZfeNQqglnR-Jv-15" parent="ZFx5cUYZfeNQqglnR-Jv-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Sprint Review" vertex="1">
+          <mxGeometry height="86.5" width="81" x="592" y="53.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFx5cUYZfeNQqglnR-Jv-16" parent="ZFx5cUYZfeNQqglnR-Jv-7" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="102" width="148" x="678" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFx5cUYZfeNQqglnR-Jv-17" parent="ZFx5cUYZfeNQqglnR-Jv-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Sprint Retrospective" vertex="1">
+          <mxGeometry height="86.5" width="81" x="711.5" y="53.75" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFx5cUYZfeNQqglnR-Jv-18" parent="ZFx5cUYZfeNQqglnR-Jv-7" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="102" width="148" x="173" y="46" as="geometry" />
+        </mxCell>
+        <mxCell id="ZFx5cUYZfeNQqglnR-Jv-19" parent="ZFx5cUYZfeNQqglnR-Jv-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Product Backlog" vertex="1">
+          <mxGeometry height="86.5" width="89" x="202.5" y="53.75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
