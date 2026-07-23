@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="BPMN HR" id="bpmn">
+    <mxGraphModel dx="1480" dy="1134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wfYQTjby792Gev0x-WkC-117" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="190" width="1030" x="773.6665649414062" y="434.77772521972656" as="geometry" />
+        </mxCell>
+        <mxCell id="wfYQTjby792Gev0x-WkC-118" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#BFBFBF;fontStyle=3;fontSize=13;fontColor=#333333;align=center;" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;PROCESS PERSPECTIVE – QUẢN LÝ &amp;amp; KIỂM SOÁT TÀI SẢN&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="1030" x="773.6665649414062" y="434.77772521972656" as="geometry" />
+        </mxCell>
+        <mxCell id="wfYQTjby792Gev0x-WkC-119" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="100" width="148" x="1090.6665649414062" y="494.77772521972656" as="geometry" />
+        </mxCell>
+        <mxCell id="wfYQTjby792Gev0x-WkC-120" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.01;dx=22.68;notch=20.89;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="100" width="148" x="950.6665649414062" y="494.77772521972656" as="geometry" />
+        </mxCell>
+        <mxCell id="wfYQTjby792Gev0x-WkC-121" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="100" width="148" x="1230.6665649414062" y="494.77772521972656" as="geometry" />
+        </mxCell>
+        <mxCell id="wfYQTjby792Gev0x-WkC-122" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fontStyle=1;align=center;" value="" vertex="1">
+          <mxGeometry height="100" width="148" x="1370.6665649414062" y="494.77772521972656" as="geometry" />
+        </mxCell>
+        <mxCell id="wfYQTjby792Gev0x-WkC-123" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fontStyle=1" value="" vertex="1">
+          <mxGeometry height="100" width="148" x="1510.6665649414062" y="494.77772521972656" as="geometry" />
+        </mxCell>
+        <mxCell id="wfYQTjby792Gev0x-WkC-132" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 15px; font-weight: 700;&quot;&gt;Tiếp nhận&lt;/span&gt;&lt;br style=&quot;color: rgb(51, 51, 51); font-size: 15px; font-weight: 700;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 15px; font-weight: 700;&quot;&gt;&amp;amp; bàn giao&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 15px; font-weight: 700;&quot;&gt;thiết bị&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="142.33" x="956.34" y="529.78" as="geometry" />
+        </mxCell>
+        <mxCell id="wfYQTjby792Gev0x-WkC-133" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 15px; font-weight: 700;&quot;&gt;Bảo dưỡng định kỳ&lt;/span&gt;" vertex="1">
+          <mxGeometry height="29.56" width="100" x="1117" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="wfYQTjby792Gev0x-WkC-134" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 15px; font-weight: 700;&quot;&gt;Bảo dưỡng định kỳ&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="102.33" x="1393.5" y="529.78" as="geometry" />
+        </mxCell>
+        <mxCell id="wfYQTjby792Gev0x-WkC-135" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 15px; font-weight: 700;&quot;&gt;Lưu hồ sơ&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-size: 15px; font-weight: 700;&quot;&gt;tài sản&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="100" x="1534.67" y="529.78" as="geometry" />
+        </mxCell>
+        <mxCell id="wfYQTjby792Gev0x-WkC-137" parent="1" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Xử lý sự cố&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;(sửa/thanh lý)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="220" x="1260" y="519.56" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
