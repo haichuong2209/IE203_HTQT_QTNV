@@ -20,8 +20,8 @@
     - Mô hình hóa 2 quy trình cốt lõi (Core).
     - Mô hình hóa 2 quy trình hỗ trợ (Support).
 - Yêu cầu
-    - Slide - 1 quy trình.
-    - Words - 2 quy trình
+    - Slide - 1 quy trình. (Project Management Process)
+    - Words - 2 quy trình ()
     - Mô tả độ phức tạp của quy trình
     - Cổng điều kiện:
         - >7: 1 đ.

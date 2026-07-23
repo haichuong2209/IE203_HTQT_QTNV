@@ -1,0 +1,21 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="PROCESS PERSPECTIVE – QUẢN LÝ &amp; KIỂM SOÁT TÀI SẢN" id="chevron">
+    <mxGraphModel dx="900" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="250" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="PROCESS PERSPECTIVE – QUẢN LÝ &amp; KIỂM SOÁT TÀI SẢN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#BFBFBF;fontStyle=3;fontSize=13;fontColor=#333333;align=center;" vertex="1" parent="1"><mxGeometry x="0" y="-50" width="864" height="40" as="geometry"/></mxCell>
+<mxCell id="3" value="Tiếp nhận &amp;
+bàn giao thiết bị" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#FFFFFF;fontColor=#333333;fontSize=12;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="0" y="0" width="200" height="90" as="geometry"/></mxCell>
+<mxCell id="4" value="Bảo dưỡng
+định kỳ" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#BFBFBF;strokeColor=#FFFFFF;fontColor=#FFFFFF;fontSize=12;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="166" y="0" width="200" height="90" as="geometry"/></mxCell>
+<mxCell id="5" value="Xử lý sự cố
+(sửa/thanh lý)" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#9DC3E6;strokeColor=#FFFFFF;fontColor=#1F3864;fontSize=12;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="332" y="0" width="200" height="90" as="geometry"/></mxCell>
+<mxCell id="6" value="Mua mới
+(nếu cần)" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#A9D18E;strokeColor=#FFFFFF;fontColor=#375623;fontSize=12;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="498" y="0" width="200" height="90" as="geometry"/></mxCell>
+<mxCell id="7" value="Lưu hồ sơ
+tài sản" style="shape=chevron;whiteSpace=wrap;html=1;fillColor=#FFD966;strokeColor=#FFFFFF;fontColor=#7F6000;fontSize=12;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="664" y="0" width="200" height="90" as="geometry"/></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

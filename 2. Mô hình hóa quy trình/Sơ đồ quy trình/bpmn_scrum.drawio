@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="BPMN Scrum" id="bpmn">
+    <mxGraphModel dx="1400" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1800" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Scrum Master/PO" style="swimlane;html=1;horizontal=0;fillColor=#FFFFFF;strokeColor=#333333;fontSize=11;fontStyle=1;startSize=30;" vertex="1" parent="1"><mxGeometry x="0" y="0" width="2884" height="294" as="geometry"/></mxCell>
+<mxCell id="3" value="Dev Team" style="swimlane;html=1;horizontal=0;fillColor=#FFFFFF;strokeColor=#333333;fontSize=11;fontStyle=1;startSize=30;" vertex="1" parent="1"><mxGeometry x="0" y="294" width="2884" height="294" as="geometry"/></mxCell>
+<mxCell id="4" value="Customer/PM" style="swimlane;html=1;horizontal=0;fillColor=#FFFFFF;strokeColor=#333333;fontSize=11;fontStyle=1;startSize=30;" vertex="1" parent="1"><mxGeometry x="0" y="588" width="2884" height="294" as="geometry"/></mxCell>
+<mxCell id="5" value="Start" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#548235;strokeWidth=2;fontSize=11;" vertex="1" parent="1"><mxGeometry x="120" y="127" width="39" height="39" as="geometry"/></mxCell>
+<mxCell id="6" value="Sprint Planning" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCE6F1;strokeColor=#2F5597;fontSize=11;" vertex="1" parent="1"><mxGeometry x="212" y="121" width="108" height="52" as="geometry"/></mxCell>
+<mxCell id="7" value="+" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E2EFDA;strokeColor=#548235;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="391" y="307" width="87" height="87" as="geometry"/></mxCell>
+<mxCell id="8" value="Phát triển&#10;deliverables" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCE6F1;strokeColor=#2F5597;fontSize=11;" vertex="1" parent="1"><mxGeometry x="548" y="324" width="108" height="52" as="geometry"/></mxCell>
+<mxCell id="9" value="Viết test case" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCE6F1;strokeColor=#2F5597;fontSize=11;" vertex="1" parent="1"><mxGeometry x="548" y="436" width="108" height="52" as="geometry"/></mxCell>
+<mxCell id="10" value="+" style="rhombus;whiteSpace=wrap;html=1;fillColor=#E2EFDA;strokeColor=#548235;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="727" y="363" width="87" height="87" as="geometry"/></mxCell>
+<mxCell id="11" value="Kiểm thử" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCE6F1;strokeColor=#2F5597;fontSize=11;" vertex="1" parent="1"><mxGeometry x="884" y="380" width="108" height="52" as="geometry"/></mxCell>
+<mxCell id="12" value="X" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#BF8F00;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="1063" y="363" width="87" height="87" as="geometry"/></mxCell>
+<mxCell id="13" value="Kiểm thử&#10;đạt?" style="text;html=1;align=center;fontSize=9;fontStyle=2;" vertex="1" parent="1"><mxGeometry x="1043" y="449" width="127" height="34" as="geometry"/></mxCell>
+<mxCell id="14" value="Fix bug" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCE6F1;strokeColor=#2F5597;fontSize=11;" vertex="1" parent="1"><mxGeometry x="1220" y="513" width="108" height="52" as="geometry"/></mxCell>
+<mxCell id="15" value="Sprint Review /&#10;Demo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCE6F1;strokeColor=#2F5597;fontSize=11;" vertex="1" parent="1"><mxGeometry x="1220" y="709" width="108" height="52" as="geometry"/></mxCell>
+<mxCell id="16" value="Retrospective" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCE6F1;strokeColor=#2F5597;fontSize=11;" vertex="1" parent="1"><mxGeometry x="1388" y="121" width="108" height="52" as="geometry"/></mxCell>
+<mxCell id="17" value="X" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#BF8F00;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="1567" y="104" width="87" height="87" as="geometry"/></mxCell>
+<mxCell id="18" value="Sprint đạt&#10;DoD?" style="text;html=1;align=center;fontSize=9;fontStyle=2;" vertex="1" parent="1"><mxGeometry x="1547" y="190" width="127" height="34" as="geometry"/></mxCell>
+<mxCell id="19" value="X" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#BF8F00;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="1735" y="216" width="87" height="87" as="geometry"/></mxCell>
+<mxCell id="20" value="Nguyên&#10;nhân?" style="text;html=1;align=center;fontSize=9;fontStyle=2;" vertex="1" parent="1"><mxGeometry x="1715" y="302" width="127" height="34" as="geometry"/></mxCell>
+<mxCell id="21" value="Cập nhật&#10;Product&#10;Backlog" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCE6F1;strokeColor=#2F5597;fontSize=11;" vertex="1" parent="1"><mxGeometry x="1892" y="233" width="108" height="52" as="geometry"/></mxCell>
+<mxCell id="22" value="X" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#BF8F00;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="1735" y="692" width="87" height="87" as="geometry"/></mxCell>
+<mxCell id="23" value="KH muốn&#10;dừng dự án?" style="text;html=1;align=center;fontSize=9;fontStyle=2;" vertex="1" parent="1"><mxGeometry x="1715" y="778" width="127" height="34" as="geometry"/></mxCell>
+<mxCell id="24" value="Thông báo dừng&#10;dự án cho KH" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCE6F1;strokeColor=#2F5597;fontSize=11;" vertex="1" parent="1"><mxGeometry x="1892" y="611" width="108" height="52" as="geometry"/></mxCell>
+<mxCell id="25" value="X" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#BF8F00;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="1903" y="692" width="87" height="87" as="geometry"/></mxCell>
+<mxCell id="26" value="Cần thêm&#10;refinement?" style="text;html=1;align=center;fontSize=9;fontStyle=2;" vertex="1" parent="1"><mxGeometry x="1883" y="778" width="127" height="34" as="geometry"/></mxCell>
+<mxCell id="27" value="X" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=#BF8F00;fontSize=16;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="2071" y="692" width="87" height="87" as="geometry"/></mxCell>
+<mxCell id="28" value="Còn sprint&#10;tiếp theo?" style="text;html=1;align=center;fontSize=9;fontStyle=2;" vertex="1" parent="1"><mxGeometry x="2051" y="778" width="127" height="34" as="geometry"/></mxCell>
+<mxCell id="29" value="Release" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCE6F1;strokeColor=#2F5597;fontSize=11;" vertex="1" parent="1"><mxGeometry x="2228" y="415" width="108" height="52" as="geometry"/></mxCell>
+<mxCell id="30" value="Project Closing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCE6F1;strokeColor=#2F5597;fontSize=11;" vertex="1" parent="1"><mxGeometry x="2396" y="709" width="108" height="52" as="geometry"/></mxCell>
+<mxCell id="31" value="Cập nhật tài&#10;liệu Closing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#DCE6F1;strokeColor=#2F5597;fontSize=11;" vertex="1" parent="1"><mxGeometry x="2564" y="121" width="108" height="52" as="geometry"/></mxCell>
+<mxCell id="32" value="End" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#C00000;strokeWidth=3;fontSize=11;" vertex="1" parent="1"><mxGeometry x="2766" y="127" width="39" height="39" as="geometry"/></mxCell>
+<mxCell id="33" value="" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="5" target="6"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="34" value="" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="6" target="7"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="35" value="" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="7" target="8"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="36" value="" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="7" target="9"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="37" value="" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="8" target="10"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="38" value="" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="9" target="10"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="39" value="" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="10" target="11"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="40" value="" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="11" target="12"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="41" value="Không đạt" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="12" target="14"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="42" value="Đạt" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="12" target="15"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="43" value="Kiểm thử lại" style="endArrow=block;html=1;strokeColor=#7F7F7F;dashed=1;" edge="1" parent="1" source="14" target="11"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="44" value="" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="15" target="16"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="45" value="" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="16" target="17"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="46" value="Không đạt" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="17" target="19"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="47" value="Thiếu thời gian&#10;(carry-over)" style="endArrow=block;html=1;strokeColor=#7F7F7F;dashed=1;" edge="1" parent="1" source="19" target="8"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="48" value="Đổi yêu cầu" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="19" target="21"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="49" value="Lập kế hoạch lại" style="endArrow=block;html=1;strokeColor=#7F7F7F;dashed=1;" edge="1" parent="1" source="21" target="6"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="50" value="Đạt" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="17" target="22"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="51" value="Muốn dừng" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="22" target="24"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="52" value="Tiếp tục" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="22" target="25"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="53" value="" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="24" target="31"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="54" value="" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="25" target="27"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="55" value="Còn sprint" style="endArrow=block;html=1;strokeColor=#7F7F7F;dashed=1;" edge="1" parent="1" source="27" target="6"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="56" value="Hết backlog" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="27" target="29"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="57" value="" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="29" target="30"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="58" value="" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="30" target="31"><mxGeometry relative="1" as="geometry"/></mxCell>
+<mxCell id="59" value="" style="endArrow=block;html=1;strokeColor=#404040;" edge="1" parent="1" source="31" target="32"><mxGeometry relative="1" as="geometry"/></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

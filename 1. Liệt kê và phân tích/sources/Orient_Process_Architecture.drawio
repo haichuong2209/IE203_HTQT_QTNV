@@ -1,67 +1,57 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.6 Chrome/140.0.7339.249 Electron/38.8.0 Safari/537.36" version="29.3.6">
   <diagram name="Orient Software - Process Architecture" id="orient-process-architecture">
-    <mxGraphModel dx="900" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="980" math="0" shadow="0">
+    <mxGraphModel dx="2064" dy="2220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="980" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-
-        <!-- Management band -->
-        <mxCell id="mgmtBand" value="" style="trapezoid;whiteSpace=wrap;html=1;fillColor=#F4C7A1;strokeColor=#000000;perimeter=trapezoidPerimeter;size=0.22;" vertex="1" parent="1">
-          <mxGeometry x="40" y="30" width="1120" height="270" as="geometry" />
+        <mxCell id="qTe4fJpZE5NrS9Gogqls-1" parent="1" style="triangle;whiteSpace=wrap;html=1;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="1200" width="540" x="330" y="-570" as="geometry" />
         </mxCell>
-        <mxCell id="mgmtLabel" value="Management Processes" style="text;html=1;fontStyle=1;fontSize=18;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="60" y="270" width="320" height="30" as="geometry" />
+        <mxCell id="mgmtLabel" parent="1" style="text;html=1;fontStyle=1;fontSize=18;align=left;verticalAlign=middle;" value="Management Processes" vertex="1">
+          <mxGeometry height="30" width="320" x="33" y="270" as="geometry" />
         </mxCell>
-
-        <mxCell id="m1" value="Quality Management Process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="170" y="100" width="260" height="150" as="geometry" />
+        <mxCell id="m2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;fontStyle=1" value="Project Portfolio &amp;amp; Resource Allocation Management" vertex="1">
+          <mxGeometry height="150" width="260" x="240" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="m2" value="Project Portfolio &amp; Resource Allocation Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="470" y="100" width="260" height="150" as="geometry" />
+        <mxCell id="m1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;fontStyle=1" value="Quality Management Process" vertex="1">
+          <mxGeometry height="140" width="290" x="455" y="-90" as="geometry" />
         </mxCell>
-        <mxCell id="m3" value="Risk Management Process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="770" y="100" width="260" height="150" as="geometry" />
+        <mxCell id="m3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;fontStyle=1" value="Risk Management Process" vertex="1">
+          <mxGeometry height="150" width="260" x="700" y="100" as="geometry" />
         </mxCell>
-
-        <!-- Core band -->
-        <mxCell id="coreBand" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8EA9DB;strokeColor=#000000;verticalAlign=bottom;align=left;fontStyle=1;fontSize=18;spacingLeft=20;spacingBottom=10;" vertex="1" parent="1">
-          <mxGeometry x="0" y="300" width="1200" height="320" as="geometry" />
+        <mxCell id="coreBand" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#8EA9DB;strokeColor=#000000;verticalAlign=bottom;align=left;fontStyle=1;fontSize=18;spacingLeft=20;spacingBottom=10;" value="" vertex="1">
+          <mxGeometry height="320" width="1200" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="coreLabel2" value="Core Processes" style="text;html=1;fontStyle=1;fontSize=18;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="20" y="580" width="260" height="30" as="geometry" />
+        <mxCell id="coreLabel2" parent="1" style="text;html=1;fontStyle=1;fontSize=18;align=left;verticalAlign=middle;" value="Core Processes" vertex="1">
+          <mxGeometry height="30" width="260" x="33" y="580" as="geometry" />
         </mxCell>
-
-        <mxCell id="c1" value="Sales Management Process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="170" y="340" width="260" height="150" as="geometry" />
+        <mxCell id="c1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;fontStyle=1" value="Sales Management Process" vertex="1">
+          <mxGeometry height="150" width="260" x="170" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="c2" value="Project Management Process (Agile Scrum)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="470" y="340" width="260" height="150" as="geometry" />
+        <mxCell id="c2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;fontStyle=1" value="Project Management Process (Agile Scrum)" vertex="1">
+          <mxGeometry height="150" width="260" x="470" y="340" as="geometry" />
         </mxCell>
-        <mxCell id="c3" value="Software Maintenance &amp; Support Process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="770" y="340" width="260" height="150" as="geometry" />
+        <mxCell id="c3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;fontStyle=1" value="Software Maintenance &amp;amp; Support Process" vertex="1">
+          <mxGeometry height="150" width="260" x="770" y="340" as="geometry" />
         </mxCell>
-
-        <!-- Support band -->
-        <mxCell id="supBand" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9D18E;strokeColor=#000000;verticalAlign=bottom;align=left;fontStyle=1;fontSize=18;spacingLeft=20;spacingBottom=10;" vertex="1" parent="1">
-          <mxGeometry x="0" y="620" width="1200" height="320" as="geometry" />
+        <mxCell id="supBand" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A9D18E;strokeColor=#000000;verticalAlign=bottom;align=left;fontStyle=1;fontSize=18;spacingLeft=20;spacingBottom=10;" value="" vertex="1">
+          <mxGeometry height="320" width="1200" y="620" as="geometry" />
         </mxCell>
-        <mxCell id="supLabel2" value="Support Processes" style="text;html=1;fontStyle=1;fontSize=18;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="20" y="900" width="260" height="30" as="geometry" />
+        <mxCell id="supLabel2" parent="1" style="text;html=1;fontStyle=1;fontSize=18;align=left;verticalAlign=middle;" value="Support Processes" vertex="1">
+          <mxGeometry height="30" width="260" x="33" y="900" as="geometry" />
         </mxCell>
-
-        <mxCell id="s1" value="HR Recruitment Process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="60" y="660" width="210" height="150" as="geometry" />
+        <mxCell id="s1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;fontStyle=1" value="HR Recruitment Process" vertex="1">
+          <mxGeometry height="150" width="210" x="143" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="s2" value="Assets Control Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="295" y="660" width="210" height="150" as="geometry" />
+        <mxCell id="s2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;fontStyle=1" value="Assets Control Management" vertex="1">
+          <mxGeometry height="150" width="210" x="378" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="s3" value="Software Installation Management Process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="530" y="660" width="210" height="150" as="geometry" />
+        <mxCell id="s3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;fontStyle=1" value="Software Installation Management Process" vertex="1">
+          <mxGeometry height="150" width="210" x="613" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="s4" value="Purchasing Management Process" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="765" y="660" width="210" height="150" as="geometry" />
+        <mxCell id="s4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;fontSize=13;fontStyle=1" value="Purchasing Management Process" vertex="1">
+          <mxGeometry height="150" width="210" x="848" y="700" as="geometry" />
         </mxCell>
-
       </root>
     </mxGraphModel>
   </diagram>
