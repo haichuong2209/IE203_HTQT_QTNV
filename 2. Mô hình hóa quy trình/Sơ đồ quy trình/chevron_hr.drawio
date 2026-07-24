@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="PROCESS PERSPECTIVE – QUY TRÌNH TUYỂN DỤNG NHÂN SỰ" id="chevron">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1400" pageHeight="250" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2F2F2;strokeColor=#BFBFBF;fontStyle=3;fontSize=13;fontColor=#333333;align=center;" value="PROCESS PERSPECTIVE – QUY TRÌNH TUYỂN DỤNG NHÂN SỰ" vertex="1">
+          <mxGeometry height="40" width="1030" y="-50" as="geometry" />
+        </mxCell>
+        <mxCell id="fi9-DteEo7who2vSYEpL-8" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;" value="Đăng tuyển &amp;amp;&lt;div&gt;Sourcing&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="240" as="geometry" />
+        </mxCell>
+        <mxCell id="fi9-DteEo7who2vSYEpL-10" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=0;" value="Opening Job&lt;div&gt;Requistion&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fi9-DteEo7who2vSYEpL-11" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;" value="Sàng lọc &amp;amp;&lt;div&gt;Phỏng vấn&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="120" x="360" as="geometry" />
+        </mxCell>
+        <mxCell id="fi9-DteEo7who2vSYEpL-12" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;" value="Đánh giá &amp;amp;&lt;div&gt;Thỏa thuận lương&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="130" x="480" as="geometry" />
+        </mxCell>
+        <mxCell id="fi9-DteEo7who2vSYEpL-13" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;" value="Gửi O&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22shape%3Dstep%3Bperimeter%3DstepPerimeter%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfixedSize%3D1%3Bsize%3D20%3B%22%20value%3D%22%C4%90%C4%83ng%20tuy%E1%BB%83n%20%26amp%3Bamp%3B%26lt%3Bdiv%26gt%3BSourcing%26lt%3B%2Fdiv%26gt%3B%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2295%22%20width%3D%22120%22%20x%3D%22180%22%20y%3D%22100%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;ffer" vertex="1">
+          <mxGeometry height="100" width="120" x="610" as="geometry" />
+        </mxCell>
+        <mxCell id="fi9-DteEo7who2vSYEpL-16" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=0;notch=16.79;" value="Pre-On-Board" vertex="1">
+          <mxGeometry height="100" width="120" x="730" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
