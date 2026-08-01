@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="PROCESS PERSPECTIVE – QUY TRÌNH TUYỂN DỤNG NHÂN SỰ" id="chevron">
+    <mxGraphModel dx="1507" dy="1241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1400" pageHeight="250" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MyMJYLWbPgbc7pRJriyI-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="190" width="1030" x="170" y="-340" as="geometry" />
+        </mxCell>
+        <mxCell id="2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#FFFFFF,#E6E6E6);strokeColor=#BFBFBF;fontStyle=3;fontSize=13;fontColor=#333333;align=center;gradientColor=none;" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;PROCESS PERSPECTIVE - QUY TRÌNH QUẢN LÝ CHẤT LƯỢNG&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="1030" x="170" y="-340" as="geometry" />
+        </mxCell>
+        <mxCell id="fi9-DteEo7who2vSYEpL-8" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fontStyle=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="100" width="148" x="410" y="-280" as="geometry" />
+        </mxCell>
+        <mxCell id="fi9-DteEo7who2vSYEpL-10" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.01;dx=22.68;notch=20.89;fontStyle=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="100" width="148" x="270" y="-280" as="geometry" />
+        </mxCell>
+        <mxCell id="fi9-DteEo7who2vSYEpL-11" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fontStyle=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="100" width="148" x="550" y="-280" as="geometry" />
+        </mxCell>
+        <mxCell id="fi9-DteEo7who2vSYEpL-12" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fontStyle=1;align=center;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="100" width="148" x="690" y="-280" as="geometry" />
+        </mxCell>
+        <mxCell id="fi9-DteEo7who2vSYEpL-13" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=20;fontStyle=1;fillColor=light-dark(#FFFFFF,#FFFFFF);fontColor=light-dark(#000000,#000000);strokeColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="100" width="148" x="830" y="-280" as="geometry" />
+        </mxCell>
+        <mxCell id="fi9-DteEo7who2vSYEpL-16" parent="1" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=22.05;notch=19.84;fontStyle=1;fillColor=light-dark(#FFFFFF,#FFFFFF);strokeColor=light-dark(#000000,#000000);fontColor=light-dark(#000000,#000000);" value="" vertex="1">
+          <mxGeometry height="100" width="148" x="970" y="-280" as="geometry" />
+        </mxCell>
+        <mxCell id="s2oq7TGGquooGhvk4jhZ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=light-dark(#000000,#000000);" value="Xử lý CAPA (nếu có NC)" vertex="1">
+          <mxGeometry height="30" width="92" x="721" y="-245" as="geometry" />
+        </mxCell>
+        <mxCell id="l5M99NEA9wqq29zJCoTb-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=light-dark(#000000,#000000);" value="Lập kế hoạch audit" vertex="1">
+          <mxGeometry height="30" width="92" x="300" y="-245" as="geometry" />
+        </mxCell>
+        <mxCell id="l5M99NEA9wqq29zJCoTb-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=light-dark(#000000,#000000);" value="Audit thực tế &amp;amp; rà soát tài liệu" vertex="1">
+          <mxGeometry height="30" width="92" x="440" y="-245" as="geometry" />
+        </mxCell>
+        <mxCell id="l5M99NEA9wqq29zJCoTb-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=light-dark(#000000,#000000);" value="Đánh giá kết quả NC" vertex="1">
+          <mxGeometry height="30" width="92" x="580" y="-245" as="geometry" />
+        </mxCell>
+        <mxCell id="l5M99NEA9wqq29zJCoTb-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=light-dark(#000000,#000000);" value="Theo dõi &amp;amp; đóng NC" vertex="1">
+          <mxGeometry height="30" width="92" x="858" y="-245" as="geometry" />
+        </mxCell>
+        <mxCell id="l5M99NEA9wqq29zJCoTb-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=light-dark(#FFFFFF,#FFFFFF);align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontColor=light-dark(#000000,#000000);" value="Báo cáo BOD" vertex="1">
+          <mxGeometry height="30" width="92" x="998" y="-245" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
