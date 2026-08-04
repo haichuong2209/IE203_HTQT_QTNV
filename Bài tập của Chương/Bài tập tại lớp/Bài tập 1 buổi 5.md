@@ -1,6 +1,6 @@
 # Đề bài
 
-![[Pasted image 20260804195301.png]]
+![](./images/bai_tap_1_buoi_5.jpg)
 
 # Liệt kê các step trong lược đồ
 
